@@ -63,7 +63,9 @@ For each query print the maximum profit earned by Mike on a new line.
 **Explanation**
 
 *Output 1:* Mike earns 87 as sum of 12 and 75 i.e. Buy at price 10, sell at 22, buy at 5 and sell at 80.
+
 *Output 2:* Mike earns 1040 as sum of 560 and 480 i.e. Buy at price 20, sell at 580, buy at 420 and sell at 900.
+
 *Output 3:* Mike cannot make any profit as selling price is decreasing day by day. Hence, it is not possible to earn anything.
 
 https://www.hackerrank.com/contests/gs-codesprint/challenges/trader-profit
